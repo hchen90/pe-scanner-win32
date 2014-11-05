@@ -1,0 +1,10 @@
+EXPORTS		AddTextToOutputWindow
+EXPORTS		ResizeMainWindowFrame
+EXPORTS		IsThisFileDll
+EXPORTS		OffsetToRva
+EXPORTS		RvaToOffset
+EXPORTS		MD5GetCode
+EXPORTS		CreateCRC32Table
+EXPORTS		GenerateCRC32Value
+					
+					

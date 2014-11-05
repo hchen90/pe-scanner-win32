@@ -1,0 +1,4 @@
+LIBRARY	unpecompact2.dll
+EXPORTS	LoadDll
+				DoMyJob
+				

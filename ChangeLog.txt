@@ -1,0 +1,72 @@
+
+  Portable Executable File Scanner / PES
+  Copyright (C) 2013 Hsiang Chen / chenxiang
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+===============================================================
+
+
+CHANGELOG:
+
+---------------------------------------------------------------
+
+Version 1.0.2.7
+  Bug Fixed.
+  Add tootip to show some simple tips.
+  Fixed resource dumpper.
+
+Version 1.0.2.6
+  Bug fixed.
+  Add check CRC32.
+  using Makefile instead of Batch(Need MS-SDK and MASM32).
+
+Version 1.0.2.5
+
+Version 1.0.2.4
+  Bug Fixed.
+  Add PE Editor.
+  Support convert RVA to Offset,Rva to VA,Offset to RVA,offset to VA,and so on.
+  Add PE file comparision.
+
+Version 1.0.2.3
+  Bug Fixed.
+
+Version 1.0.2.2
+  Fix Bug(Load Plugins),caz crashed on Windows XP.
+
+Version 1.0.2.1
+  Fix resource dumpper(support Cursor).
+
+Version 1.0.2.0
+  Add Program Interface for detectting EP(Core.dll).
+  Add LDE64 and delete ADE32.
+  Support PEiD Plugins(add a my plugins,"UnPECompact2.dll").
+  Delete MiniMode and Other redundant features.
+  Fix 16EditControl's Bug.
+
+Version 1.0.1.3
+  Support Scanning 64 Bit executable file.
+  Support 64 Bit executable file in Dump Resource Module.
+  Add a Statusbar Control.
+  Add an Edit Control to show more information.
+
+Version 1.0.1.2
+  Add TrayIcon.
+
+Version 1.0.1.1
+  Add the feature of scanning objective file.
+  Add 16Edit Tool.
+  Add Task Viewer.
+  Add Dump Resource Module.
